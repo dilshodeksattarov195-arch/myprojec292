@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperfender",
+        "uuid": 1612132,
+        "checksum": "vtmf9v"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
